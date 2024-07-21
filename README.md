@@ -1,6 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&pause=3000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Daniel)](https://git.io/typing-svg)
-
-
 <!--
 **NostalgicDani/nostalgicdani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&pause=3000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Daniel)](https://git.io/typing-svg)
+
+## Languages
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,html,css,ts,py)](https://skillicons.dev)
+
+## Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=astro,nextjs,react,tailwind)](https://skillicons.dev)
 
