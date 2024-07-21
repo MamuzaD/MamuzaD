@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&pause=3000&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Daniel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&pause=3000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Daniel)](https://git.io/typing-svg)
+
 
 <!--
 **NostalgicDani/nostalgicdani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
