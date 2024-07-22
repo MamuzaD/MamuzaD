@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=64&duration=3000&pause=2000&color=FFFFFF&vCenter=true&width=500&height=70&lines=Hey%2C+I'm+Daniel)](https://git.io/typing-svg)  
 
-## About Me
+I'm a second year student at UNLV studying Computer Science with a minor in Math.
+
+I like to branch out in development with various different projects to discover what I enjoy most. Soon I plan to start a GUI app with Rust.
+
 
 ## Languages
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
