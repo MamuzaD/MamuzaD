@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a second-year student at UNLV pursuing a Bachelor of Science in Computer Science with a minor in Math. 
 
-Most recently, I've been the project coordinator at ACM UNLV and AI UNLV while also preparing for ICPC. I enjoy branching out in development with various projects to discover what I enjoy most.
+Most recently, I've been the project coordinator at ACM UNLV and AI & Data Science Club while also preparing for ICPC. I enjoy branching out in development with various projects to discover what I enjoy most.
 
 
 ## Languages
