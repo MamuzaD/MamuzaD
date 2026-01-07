@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=64&duration=3000&pause=2000&color=FFFFFF&vCenter=true&width=500&height=70&lines=Hey%2C+I'm+Daniel)](https://git.io/typing-svg)  
 
-I’m a CS student at UNLV with a passion for building scalable systems and exploring new technologies. In my spare time, I enjoy working on some personal projects you can find here.
-
-Professionally, I’m a Software Engineer Intern at Intellimind, where I develop full-stack applications using AWS and Python for the backend, and React with TypeScript for the frontend.
+I’m a CS student at UNLV, focused on building scalable systems and exploring new technologies.
 
 [Portfolio](https://danielmamuza.com) • [Resume](https://danielmamuza.com/resume.pdf) • [LinkedIn](https://linkedin.com/in/daniel-mamuza) • hello@danielmamuza.com
 
@@ -33,24 +31,28 @@ Professionally, I’m a Software Engineer Intern at Intellimind, where I develop
   - Kanban/notes SaaS with Clerk auth + RBAC
   - [Live Demo](https://monk-board.com)
 
+<!--
 ## Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
+-->
 
 <!-- [![Languages](https://skillicons.dev/icons?i=cpp,cs,html,css,js,ts,py)](https://skillicons.dev) -->
 
+<!--
 ## Frameworks & Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![shadcn/ui Badge](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)
+-->
 
 <!-- [![Frameworks & Libraries](https://skillicons.dev/icons?i=astro,next,react,prisma,tailwindcss,zod)](https://skillicons.dev) -->
 
+<!--
 ## Tools
 ![AWS Badge](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![DynamoDB Badge](https://img.shields.io/badge/AWS%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
@@ -58,9 +60,11 @@ Professionally, I’m a Software Engineer Intern at Intellimind, where I develop
 ![S3 Badge](https://img.shields.io/badge/AWS%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge)
+-->
 
 <!-- [![Frameworks & Libraries](https://skillicons.dev/icons?i=aws,blender,cloudflare,git,supabase,unity,vercel)](https://skillicons.dev) -->
 
+<!--
 <details>
 <summary>Worked with before</summary>
   
@@ -92,11 +96,14 @@ Professionally, I’m a Software Engineer Intern at Intellimind, where I develop
 <details>
 <summary>Dev Setup</summary>
 
+
 ### Terminal
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
 ![Ghostty](https://img.shields.io/badge/Ghostty-3551f3?style=for-the-badge&logoColor=white)
+ 
+
 
 ### OS
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
@@ -104,3 +111,4 @@ Professionally, I’m a Software Engineer Intern at Intellimind, where I develop
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 </details>
+-->
