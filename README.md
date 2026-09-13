@@ -13,23 +13,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=64&duration=3000&pause=2000&color=FFFFFF&vCenter=true&width=500&height=70&lines=Hey%2C+I'm+Daniel)](https://git.io/typing-svg)  
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=64&duration=3000&pause=2000&color=FFFFFF&vCenter=true&width=500&height=70&lines=Hey%2C+I'm+Daniel)](https://git.io/typing-svg)
 
-I’m a CS student at UNLV, focused on building scalable systems and exploring new technologies.
+I'm a CS student at UNLV. I ship things across multiple stacks and take any excuse to learn a new one. TypeScript just keeps showing up.
 
 [Portfolio](https://danielmamuza.com) • [Resume](https://danielmamuza.com/resume.pdf) • [LinkedIn](https://linkedin.com/in/daniel-mamuza) • hello@danielmamuza.com
 
 ## Featured projects
+
+- [Fomo](https://github.com/Fomo-Find-Out-More-Often/fomo)
+  - Next.js, Expo, Convex, Turborepo
+  - Centralized hub for local events; monorepo with shared web + mobile apps and a real-time backend
+  - Won 1st Place in Computer Science at UNLV’s Senior Design Competition
 - [Vidlogd](https://github.com/mamuzad/vidlogd)
   - Go, Bubble Tea, YouTube Data API
   - Terminal video logger with CRUD + fuzzy search; analytics across 5+ metrics
 - [FlipTrick](https://github.com/mamuzad/fliptrick)
   - Swift, UIKit, CoreMotion
   - Motion-based iOS game detecting flips/spins/rotations via CoreMotion; real-time scoring with combo multipliers
-- [Monk](https://github.com/mamuzad/monk)
-  - Next.js, Tailwind, Prisma, PostgreSQL
-  - Kanban/notes SaaS with Clerk auth + RBAC
-  - [Live Demo](https://monk-board.com)
 
 <!--
 ## Languages
@@ -67,7 +68,7 @@ I’m a CS student at UNLV, focused on building scalable systems and exploring n
 <!--
 <details>
 <summary>Worked with before</summary>
-  
+
 ### More Languages
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -102,7 +103,7 @@ I’m a CS student at UNLV, focused on building scalable systems and exploring n
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
 ![Ghostty](https://img.shields.io/badge/Ghostty-3551f3?style=for-the-badge&logoColor=white)
- 
+
 
 
 ### OS
